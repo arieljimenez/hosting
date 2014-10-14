@@ -1,5 +1,5 @@
 ==============================
-Goddady.com			
+DreamHost.com					<--- recomendado 
 ==============================
 Cifras en US$
 14/10/2014
@@ -7,20 +7,19 @@ Cifras en US$
 
 Dominio 
 ------------------------------
-*.com		$ 13,17 / anual
+*.com			$ 11.95
+
 
 Hosting
 ------------------------------
-Economy 	$ 50.76 / anual
-Deluxe		$ 65.28 / anual 
-Ultimate	$ 108.84 / anual 
+Web Hosting 	$ 107.4*
 
-Un dominio gratis por compra de uno de estos planes anuales.
+*viene con un domain incluido
 
 
 
 ==============================
-Hostgator.com			
+Hostgator.com					<--- recomendado
 ==============================
 Cifras en US$
 14/10/2014
@@ -28,13 +27,69 @@ Cifras en US$
 
 Dominio 
 ------------------------------
-*.com			$ 12.95 / anual
+*.com			$ 12.95 
+
 
 Hosting
 ------------------------------
-Hatchling Plan 	$ 66.72  / anual
-Baby Plan		$ 95.52  / anual 
-Business Plan	$ 143.52 / anual 
+Hatchling Plan 	$ 66.72 
+Baby Plan		$ 95.52
+Business Plan	$ 143.52  
+
+
+
+==============================
+Goddady.com						<--- no muy recomendado 
+==============================
+Cifras en US$
+14/10/2014
+
+
+Dominio 
+------------------------------
+*.com		$ 13,17
+
+
+Hosting
+------------------------------
+Economy 	$ 50.76*
+Deluxe		$ 65.28 *
+Ultimate	$ 108.84*
+
+*Viene con un dominio cualquiera de los planes
+** precios el primer año, de ahí en adelante es más costoso =/
+
+
+
+==============================
+Webfaction.com		
+==============================
+Cifras en US$
+14/10/2014
+*Cloud Server* 
+
+
+Hosting
+------------------------------
+Web Hosting 	$ 102.00
+
+
+
+==============================
+iPage.com		
+==============================
+Cifras en US$
+14/10/2014
+
+
+Domain
+------------------------------
+*.com			$ 15.99
+
+
+Hosting
+------------------------------
+Web Hosting 	$ 20.16
 
 
 
@@ -47,11 +102,44 @@ Cifras en US$
 
 Dominio 
 ------------------------------
-*.com			$ 9.99 / anual
+*.com			$ 9.99 
 *.com.do 		$ 70.00 / 2 años
+
 
 Hosting
 ------------------------------
-Web Hosting 	$ 47.40  / anual
+Web Hosting 	$ 47.40 
 
 
+
+==============================
+NameCheap.com		
+==============================
+Cifras en US$
+14/10/2014
+
+
+Dominio 
+------------------------------
+*.com			$ 10.69 
+*.me			$ 8.99  
+
+
+Hosting
+------------------------------
+Web Hosting 	$ 47.76 
+Professional 	$ 77.76 
+
+
+
+==============================
+site5.com			
+==============================
+Cifras en US$
+14/10/2014
+
+
+Hosting
+------------------------------
+HostBasic	 	$ 59.40 
+HostPro			$ 107.40
