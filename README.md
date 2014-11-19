@@ -1,3 +1,8 @@
-Hosting cheat-sheet
+# Hosting cheat-sheet
 =======
-Precios en US$ y calculados anualmente. 
+
+_Precios en US$ y calculados anualmente._ 
+
++info http://frismaury.github.io/hosting
+
+
